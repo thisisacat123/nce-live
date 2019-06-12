@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/nce-live/static/css/main.f67476f8.chunk.css",
+    "main.js": "/nce-live/static/js/main.897f7615.chunk.js",
+    "runtime~main.js": "/nce-live/static/js/runtime~main.005b04d8.js",
+    "static/js/2.6733aa46.chunk.js": "/nce-live/static/js/2.6733aa46.chunk.js",
+    "index.html": "/nce-live/index.html",
+    "precache-manifest.1fae79c75917b010d710703e4eda001a.js": "/nce-live/precache-manifest.1fae79c75917b010d710703e4eda001a.js",
+    "service-worker.js": "/nce-live/service-worker.js"
+  }
+}
